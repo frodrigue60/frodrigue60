@@ -26,3 +26,5 @@ I am currently expanding my horizons by learning **Go** and **Svelte**.
 **Exploring**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-F05032?style=flat&logo=svelte&logoColor=white)
+![Nunjucks](https://img.shields.io/badge/-Nunjucks-255F25?style=flat&logo=nunjucks&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FFFFFF?style=flat&logo=astro&logoColor=1D1F25)
